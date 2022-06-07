@@ -2,3 +2,20 @@ html {
     background-color: tan;
 }
 
+
+
+a {
+    float: right;
+    display: inline;
+    padding: 8px;
+    background-color: wheat;
+  }
+  a:hover {
+    background-color: #111;
+  }
+
+#my-face {
+max-width: 30%;
+ 
+border-radius: 10px;
+}
