@@ -1,7 +1,9 @@
 html {
     background-color: tan;
 }
-
+body{
+    flex-wrap: wrap;
+}
 .nav-bar {
     float: right;
     display: inline;
@@ -27,7 +29,6 @@ border-radius: 10px;
 width: 200px;
 height: 200px;
 padding-right: 200px;
-
 }
 #project2 {
     max-width: 20%;
